@@ -12,7 +12,7 @@ Smart contract: https://github.com/incremental-series/cardano-incy-buy
 
 ## All official links
 • Information portal: https://github.com/incremental-series/cardano-incy  
-• Information portal wiki: https://github.com/incremental-series/cardano-incy.wiki
+• Information portal wiki: https://github.com/incremental-series/cardano-incy.wiki  
 • On-chain buy-incy smart contract bridge: https://github.com/incremental-series/cardano-incy-buy  
 
 Check the wiki for the rest of the details: https://github.com/incremental-series/cardano-incy.wiki
