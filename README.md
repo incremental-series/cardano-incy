@@ -1,6 +1,6 @@
 # cardano-incy
 Official information portal for INCY: Cardano native token released on January 11, 2025.  
-Check the wiki for the rest of the details: https://github.com/incremental-series/cardano-incy.wiki
+Check the wiki for the rest of the details: https://github.com/incremental-series/cardano-incy/wiki
 
 # Token Details
 Policy ID: **0000001c1f5134859ee40556e75834b9929d1b393ab94858a3d27ae0**  
@@ -12,7 +12,7 @@ Smart contract: https://github.com/incremental-series/cardano-incy-buy
 
 ## All official links
 • Information portal: https://github.com/incremental-series/cardano-incy  
-• Information portal wiki: https://github.com/incremental-series/cardano-incy.wiki  
+• Information portal wiki: https://github.com/incremental-series/cardano-incy/wiki  
 • On-chain buy-incy smart contract bridge: https://github.com/incremental-series/cardano-incy-buy  
 
-Check the wiki for the rest of the details: https://github.com/incremental-series/cardano-incy.wiki
+Check the wiki for the rest of the details: https://github.com/incremental-series/cardano-incy/wiki
